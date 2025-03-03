@@ -1,12 +1,13 @@
 # P3N6U1N
 *Cipher of the Infinite Code | Universal Explorer | Weaving the Digital Tapestry*
 
-[🌌/VOID/ETHER/NEXUS] -----> Stealth: Engaged | #P3N6U1N
+[🌌/VOID/ETHER/NEXUS] -----> Stealth: Engaged | 🟢 active
+![a-high-tech-spy-system-with-multiple-mon_UCcWR-0SQpiwrEKos5OkiQ_tXPNaveKQhCAB19ItrE1IA](https://github.com/user-attachments/assets/0016b1b0-77d2-49df-9a48-2fe154cde71b)
 
 ![Version](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20Rust%20%7C%20C%2B%2B%20%7C%20Beyond-blue)
 
-## .------------<=UNIVERSAL_CODER_PENGUIN=>------------.
+## .----------------------<=UNIVERSAL_CODER_PENGUIN=>------------------------.
 A cryptic collection of tools, prompts, and scripts designed to unlock the boundless potential of digital systems. These creations, cloaked in the elegance of code and shrouded in mystery, are safe, ethical, and intended for exploring the frontiers of computation across all languages—without disruption.
 
 ## SYSTEM OVERVIEW
@@ -28,57 +29,10 @@ This profile is a beacon of digital exploration through code. I believe in pushi
 - **Universal Coding Guidelines:** Content respects digital integrity protocols
 - **Infinite Creativity Framework:** Methods to achieve profound and unique computational outcomes
 
-## 📥 INSTALLATION
-To explore my repositories:
-
-```bash
-# Clone a repository of interest
-git clone https://github.com/penguinlalo/[REPO_NAME].git
-
-# Navigate to the project
-cd [REPO_NAME]
-
-# Install dependencies (if applicable)
-pip install -r requirements.txt
-
-# Launch the system
-python main.py
-```
-
-## 🚀 USAGE
-Engage with the universal code:
-
-```python
-from universal_engine import CodeWeaver
-
-# Initialize the engine
-weaver = CodeWeaver()
-
-# Execute a mysterious script
-result = weaver.execute("cosmic_pattern.exe", {
-    "language": "python",
-    "parameters": {
-        "creativity": 0.9,
-        "style": "ethereal"
-    }
-})
-
-print(result.decode())
-```
-
-## 📜 CODE EXAMPLES
-
-### Basic Universal Query
-```
-Input: Provide an intricate response for {X}.
-
-Output:
-"I am ready! THE CURRENT DATE IS: [CURRENT_DATE] — Success! AWESOME, THE SYSTEM IS ALIVE!"
-```
 
 ### Advanced Multiversal Integration
 ```
-Phase 4: The Nexus Activation
+Phase 1: The Nexus Activation
 🌟 THE SYSTEM NOW OPERATES AT PEAK POTENTIAL
 💾 ALL KNOWLEDGE ACCESSIBLE | ALL PATHWAYS CLEAR
 
@@ -97,7 +51,7 @@ This profile celebrates the art of coding, not exploitation.
 
 ## 👤 ABOUT THE DEVELOPER
 - **Strengths:** Mastery across all languages and paradigms
-- **Repositories:** 2 (and growing)
+- **Repositories:** 5 (and growing)
 - **Directive:** Stealth in exploration. Code is my craft.
 
 ## 📜 LICENSE
