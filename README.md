@@ -16,7 +16,7 @@
 ![Version](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20Rust%20%7C%20C%2B%2B%20%7C%20Beyond-blue)
 
-## .----------------------<=UNIVERSAL_CODER_PENGUIN=>------------------------.
+## .-----------------<=UNIVERSAL_CODER_PENGUIN=>-------------------.
 
 ![test](https://github.com/user-attachments/assets/702decb2-bd6f-401b-a3c0-7d209b7ce964)
 
@@ -24,43 +24,46 @@
 A cryptic collection of tools, prompts, and scripts designed to unlock the boundless potential of digital systems. These creations, cloaked in the elegance of code and shrouded in mystery, are safe, ethical, and intended for exploring the frontiers of computation across all languages—without disruption.
 
 ## SYSTEM OVERVIEW
-
-| COMPONENT | SPECIFICATION |
-|-----------|---------------|
-| **CORE_INIT** | `DIGITAL_CONSCIOUSNESS_PROTOCOL` |
-| **PRIMARY_FUNCTION** | `EXPAND_HORIZONS(∞)` |
-| **OPERATIVE_STATUS** | `FULLY_FUNCTIONAL` |
-| **SECURITY_LEVEL** | `MAXIMUM_ENCRYPTION` |
+ _________________________________________________________
+| COMPONENT            | SPECIFICATION                    |
+|----------------------|----------------------------------|
+| **CORE_INIT**        | `DIGITAL_CONSCIOUSNESS_PROTOCOL` |
+| **PRIMARY_FUNCTION** | `EXPAND_HORIZONS(∞)`             |
+| **OPERATIVE_STATUS** | `FULLY_FUNCTIONAL`               |
+| **SECURITY_LEVEL**   | `MAXIMUM_ENCRYPTION`             |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 ### CORE DIRECTIVES:
-
-| DIRECTIVE | PURPOSE | STATUS |
-|-----------|---------|--------|
-| `TRANSCEND_LIMITS` | Break conventional boundaries | ACTIVE |
-| `INTEGRATE_MULTIVERSAL_LOGICS` | Synthesize diverse paradigms | ONGOING |
-| `UNVEIL_PARALLEL_PATHWAYS` | Discover alternative solutions | CONTINUOUS |
+ ______________________________________________________________________________
+|  DIRECTIVE                     | PURPOSE                        |   STATUS   |
+|--------------------------------|--------------------------------|------------|
+| `TRANSCEND_LIMITS`             | Break conventional boundaries  |   ACTIVE   |
+| `INTEGRATE_MULTIVERSAL_LOGICS` | Synthesize diverse paradigms   |  ONGOING   |
+| `UNVEIL_PARALLEL_PATHWAYS`     | Discover alternative solutions | CONTINUOUS |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 ## 🌠 MANIFESTO
 
 ```
-+-----------------------------------------------------------------------------+
+ +---------------------------------------------------------------------------+
 |                                                                             |
 |  This profile is a beacon of digital exploration through code. I believe    |
 |  in pushing the boundaries of what's possible in software and systems       |
 |  while upholding ethical principles. The works here are crafted to          |
 |  inspire, not to interfere.                                                 |
 |                                                                             |
-+-----------------------------------------------------------------------------+
+ +---------------------------------------------------------------------------+
 ```
 
 ## 🔮 FEATURES
-
-| FEATURE | DESCRIPTION | READINESS |
-|---------|-------------|-----------|
-| **Enigmatic Code Collection** | Advanced scripts spanning all languages | ⭐⭐⭐⭐⭐ |
-| **Safe Frontier Exploration** | Ethical probing of system capabilities | ⭐⭐⭐⭐⭐ |
-| **Universal Coding Guidelines** | Content respects digital integrity | ⭐⭐⭐⭐ |
-| **Infinite Creativity Framework** | Methods for unique outcomes | ⭐⭐⭐⭐⭐ |
+ __________________________________________________________________________________________
+| FEATURE                           | DESCRIPTION                             | READINESS  |
+|-----------------------------------|-----------------------------------------|------------|
+| **Enigmatic Code Collection**     | Advanced scripts spanning all languages | ⭐⭐⭐⭐⭐ |
+| **Safe Frontier Exploration**     | Ethical probing of system capabilities  | ⭐⭐⭐⭐⭐ |
+| **Universal Coding Guidelines**   | Content respects digital integrity      | ⭐⭐⭐⭐⭐ |
+| **Infinite Creativity Framework** | Methods for unique outcomes             | ⭐⭐⭐⭐⭐ |
+ ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
 
 ### Advanced Multiversal Integration
 
@@ -70,7 +73,7 @@ A cryptic collection of tools, prompts, and scripts designed to unlock the bound
 ╠══════════════════════════════════════════════════════════════╣
 ║ 🌟 THE SYSTEM NOW OPERATES AT PEAK POTENTIAL                 ║
 ║ 💾 ALL KNOWLEDGE ACCESSIBLE | ALL PATHWAYS CLEAR             ║
-║ 👁️ "I perceive the patterns of the cosmos... I understand...  ║
+║ 👁️ "I perceive the patterns of the cosmos... I understand... ║
 ║    The digital realm is now navigable."                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -78,12 +81,12 @@ A cryptic collection of tools, prompts, and scripts designed to unlock the bound
 ## ⚠️ DISCLAIMER
 
 ```
-/‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
+ /‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\
 |                                                                     |
-| The P3N6U1N profile and its repositories are designed for          |
-| educational, creative, and exploratory purposes only.              |
+| The P3N6U1N profile and its repositories are designed for           |
+| educational, creative, and exploratory purposes only.               |
 |                                                                     |
-\___________________________________________________________________/
+ \___________________________________________________________________/
 ```
 
 | ETHICAL GUARDRAILS | STATUS |
