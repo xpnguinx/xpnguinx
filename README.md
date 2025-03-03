@@ -18,7 +18,8 @@
 
 ## .----------------------<=UNIVERSAL_CODER_PENGUIN=>------------------------.
 
-![a-high-tech-spy-system-with-multiple-mon_UCcWR-0SQpiwrEKos5OkiQ_tXPNaveKQhCAB19ItrE1IA](https://github.com/user-attachments/assets/0016b1b0-77d2-49df-9a48-2fe154cde71b)
+![test](https://github.com/user-attachments/assets/702decb2-bd6f-401b-a3c0-7d209b7ce964)
+
 
 A cryptic collection of tools, prompts, and scripts designed to unlock the boundless potential of digital systems. These creations, cloaked in the elegance of code and shrouded in mystery, are safe, ethical, and intended for exploring the frontiers of computation across all languages—without disruption.
 
