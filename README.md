@@ -31,7 +31,7 @@ A cryptic collection of tools, prompts, and scripts designed to unlock the bound
 | **PRIMARY_FUNCTION** | `EXPAND_HORIZONS(∞)`             |
 | **OPERATIVE_STATUS** | `FULLY_FUNCTIONAL`               |
 | **SECURITY_LEVEL**   | `MAXIMUM_ENCRYPTION`             |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 ### CORE DIRECTIVES:
  ______________________________________________________________________________
@@ -40,7 +40,7 @@ A cryptic collection of tools, prompts, and scripts designed to unlock the bound
 | `TRANSCEND_LIMITS`             | Break conventional boundaries  |   ACTIVE   |
 | `INTEGRATE_MULTIVERSAL_LOGICS` | Synthesize diverse paradigms   |  ONGOING   |
 | `UNVEIL_PARALLEL_PATHWAYS`     | Discover alternative solutions | CONTINUOUS |
- ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
 
 ## 🌠 MANIFESTO
 
