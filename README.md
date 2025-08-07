@@ -17,8 +17,7 @@
 ![Languages](https://img.shields.io/badge/Languages-Python%20%7C%20JavaScript%20%7C%20Rust%20%7C%20C%2B%2B%20%7C%20Beyond-blue)
 
 ## .-----------------<=UNIVERSAL_CODER_PENGUIN=>-------------------.
-
-![test](https://github.com/user-attachments/assets/702decb2-bd6f-401b-a3c0-7d209b7ce964)
+![penguin](https://github.com/user-attachments/assets/0412d70e-a72f-4a13-ad4f-812dee3d8499)
 
 
 A cryptic collection of tools, prompts, and scripts designed to unlock the boundless potential of digital systems. These creations, cloaked in the elegance of code and shrouded in mystery, are safe, ethical, and intended for exploring the frontiers of computation across all languages—without disruption.
